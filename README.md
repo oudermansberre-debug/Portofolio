@@ -1,2 +1,2 @@
 # Portofolio
-Dit is mijn portofolio.
+Moderne portfolio website gebouwd met HTML en CSS waarin webdevelopment, IT, cybersecurity en FiveM projecten worden getoond.
